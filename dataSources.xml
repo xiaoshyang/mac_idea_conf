@@ -1,0 +1,10 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="192.168.202.102" uuid="5b460fe0-f18d-4b3c-8bfc-a01a6d118677">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://192.168.202.102:3306</jdbc-url>
+    </data-source>
+  </component>
+</application>
