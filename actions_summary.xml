@@ -10,19 +10,35 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Annotate">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581495422073" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581495385370" />
-              <option name="times" value="3" />
+              <option name="last" value="1581495413120" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581495365858" />
-              <option name="times" value="2" />
+              <option name="last" value="1581495411369" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="HideAllWindows">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581495419405" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -37,8 +53,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581495337122" />
-              <option name="times" value="8" />
+              <option name="last" value="1581495396046" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
@@ -85,8 +101,8 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581495332191" />
-              <option name="times" value="4" />
+              <option name="last" value="1581495392772" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
