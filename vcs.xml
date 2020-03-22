@@ -3,58 +3,18 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="http://coding.jd.com" />
-          <option name="userName" value="xnfanshuqing" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://coding.jd.com/app/yzt-statistics.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://coding.jd.com/app/yzt-open.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://source.jd.com" />
-          <option name="userName" value="xnfanshuqing" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://coding.jd.com/app/yzt-open/" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://coding.jd.com/hiboos/yzt-delivery.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://coding.jd.com/app/yzt-product.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://coding.jd.com/app/erp-open.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
           <option name="url" value="https://coding.jd.com/app/yzt-order.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://coding.jd.com/hiboos/yzt_monitor.git" />
-          <option name="userName" value="" />
+          <option name="url" value="http://coding.jd.com" />
+          <option name="userName" value="xnfanshuqing" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\work\workspace\yzt" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/yzt" />
   </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="1" />
-        <option value="2" />
-        <option value="3" />
-      </list>
-    </option>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
