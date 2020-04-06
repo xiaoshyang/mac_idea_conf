@@ -1,6 +1,8 @@
 <application>
   <component name="ConfigState">
     <option name="macUUID" value="90196958-e606-4863-a347-d47186c3c334" />
+    <option name="longSort" value="false" />
+    <option name="selectItem" value="Auto" />
     <option name="projectLoadingask" value="1" />
     <option name="userFileNotice" value="{&quot;/Users/fanshuqing/IdeaProjects/yzt/yzt-order&quot;:&quot;1&quot;}" />
     <option name="startPromptPage" value="false" />
