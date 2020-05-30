@@ -7,5 +7,6 @@
   <component name="Registry">
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
     <entry key="compiler.automake.allow.when.app.running" value="true" />
+    <entry key="maven.import.compiler.arguments" value="false" />
   </component>
 </application>
