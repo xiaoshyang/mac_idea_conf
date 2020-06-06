@@ -63,7 +63,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://coding.jd.com/hiboos/order-canal.client-adapter.git" />
+          <option name="url" value="https://coding.jd.com/hiboos/yzt_monitor.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://coding.jd.com/app/yzt-data-warehouse.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
