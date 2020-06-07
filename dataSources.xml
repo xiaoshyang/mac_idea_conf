@@ -6,5 +6,17 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://192.168.202.102:3306</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="rm-8vb5ga5v6f5o66g7wno.mysql.zhangbei.rds.aliyuncs.com" uuid="40cb7566-27a8-4bfa-9547-346998701eb7">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://rm-8vb5ga5v6f5o66g7wno.mysql.zhangbei.rds.aliyuncs.com:3306</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="58.87.70.151" uuid="ad1ac4d8-2139-4b90-bdd3-9c7c9df9603c">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://58.87.70.151:3306</jdbc-url>
+    </data-source>
   </component>
 </application>
