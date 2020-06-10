@@ -1,5 +1,15 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://10.207.249.9:9002" />
+          <token>dfc9df9bdf99dfcbdf99df9bdfcfdf9cdf9fdf99df93df9adfccdfcfdf99df99df9fdf92df92df9ddfcbdf9ddfc8df9edfc8df9adf9bdfcedfc9dfcbdfcbdfc9dfcedf9edfcfdf9edf92dfccdf99df9f</token>
+          <option name="name" value="http://10.207.249.9:9002" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules>
       <Rule active="false" key="java:S1488" />
     </rules>
