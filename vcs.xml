@@ -1,4 +1,19 @@
 <application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/fshuqing/building" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitee.com" />
+          <option name="userName" value="fshuqing@gmail.com" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/IdeaProjects/self" />
+  </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
