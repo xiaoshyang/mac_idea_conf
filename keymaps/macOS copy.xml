@@ -9,8 +9,9 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="meta f4" />
   </action>
+  <action id="CompileDirty" />
   <action id="CompileProject">
-    <keyboard-shortcut first-keystroke="shift meta alt f9" />
+    <keyboard-shortcut first-keystroke="meta f9" />
   </action>
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="alt period" />
