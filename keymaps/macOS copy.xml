@@ -9,6 +9,9 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="meta f4" />
   </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="alt f4" />
+  </action>
   <action id="CompileDirty" />
   <action id="CompileProject">
     <keyboard-shortcut first-keystroke="meta f9" />
