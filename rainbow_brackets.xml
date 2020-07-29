@@ -3,6 +3,6 @@
     <option name="applyColorsOfRoundForAllBrackets" value="true" />
     <option name="numberOfColors" value="10" />
     <option name="useColorGenerator" value="true" />
-    <option name="version" value="6.5" />
+    <option name="version" value="6.9.1" />
   </component>
 </application>
